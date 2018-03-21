@@ -1,0 +1,17 @@
+#fs label
+{
+	width : 100px;
+	float : left;	
+}
+#fs
+{
+	width:300px;
+}
+#d
+{
+	text-align:center; 
+	width:100%; 
+	height:100px; 
+	background-color:#ccddee; 
+	padding-top:30px;
+}

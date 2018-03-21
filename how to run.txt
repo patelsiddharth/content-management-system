@@ -1,0 +1,7 @@
+1. download xampp and install it in c drive.
+2. Copy all the files to C:\xampp\htdocs\project such that htdocs contains a folder named project.
+3. open xampp.exe and start APACHE and MYSQL.
+4. open google chrome browser and type localhost.
+5. go to phpMyAdmin, make new database and click on import and select information.sql present in project folder.
+6. open google chrome browser and type http://localhost/project/main.php
+ 
